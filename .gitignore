@@ -1,1 +1,14 @@
 # .gitignore
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary
+temp/
+tmp/
