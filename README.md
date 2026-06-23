@@ -1,7 +1,23 @@
 # 🚀 Operating Systems Mastery
 
 <p align="center">
-  <img src="./Assets/banners/banner.png" width="100%">
+  <img src="Assets/banners/banner.png" width="100%">
+</p>
+
+<h1 align="center">🌐 Operating Systems Mastery</h1>
+
+<p align="center">
+A complete Operating Systems repository for Software Engineering interviews, Google SDE preparation, placements, and quick revision.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/kadirisaikumar3/Operating-Systems-Mastery">
+<img src="https://img.shields.io/github/repo-size/kadirisaikumar3/Operating-Systems-Mastery">
+<img src="https://img.shields.io/github/stars/kadirisaikumar3/Operating-Systems-Mastery?style=social">
+<img src="https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Google%20Interview-Ready-success">
+<img src="https://img.shields.io/badge/Beginner-Friendly-blue">
+<img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen">
 </p>
 
 ## 📊 Repository Statistics
