@@ -1,6 +1,8 @@
 # 🚀 Operating Systems Mastery
 
-![Operating Systems Mastery Banner](Assets/banners/banner.png)
+<p align="center">
+  <img src="./Assets/banners/banner.png" width="100%">
+</p>
 
 ## 📊 Repository Statistics
 
